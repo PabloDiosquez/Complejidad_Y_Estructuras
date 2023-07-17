@@ -13,14 +13,18 @@ for(var i = 0; i < word.length; i++){
     letters.push(word[i]);
 }
 
+console.log(letters);
+
 // pop off the stack in reverse order 
-for (let i = 0; i < letters.length; i++) {
+for (var i = 0; i < letters.length; i++) {
     rword += letters.pop()
 }
 
 if (word === rword){
+    console.log(rword);
     console.log(word + " is a palindrome");
 }
 else{
+    console.log(rword);
     console.log(word + " is not a palindrome");
 }

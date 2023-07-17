@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase_02", "Clase_02\Clase_02.csproj", "{67156932-958F-4623-BFA4-8DC980C9420B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heap_Binaria", "Heap_Binaria\Heap_Binaria.csproj", "{52E16DDF-288D-4FB3-8930-D5E660042F9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase_02BIS", "Heap_Binaria\Clase_02BIS.csproj", "{52E16DDF-288D-4FB3-8930-D5E660042F9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
